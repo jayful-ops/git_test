@@ -1,1 +1,1 @@
-This is jeanclaude's firt git project!
+This is jeanclaude's first git project!
